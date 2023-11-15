@@ -1,0 +1,3181 @@
+fileFormatVersion: 2
+guid: 9a45865c51b9d9a468e803d2641ab81c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abrir_tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 9537
+        width: 298
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e8933611dddfa4db20643ed05da023
+      internalID: 380366205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 9537
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910dcd5ab8d24d5408e943ca8c59554f
+      internalID: 1419410998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 9537
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b8070db881ee41aa304a3fec13948
+      internalID: 434399576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 9537
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3298fb45c262ec43be832e2a9d2511d
+      internalID: -1565497154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 9537
+        width: 296
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e96741e670511438a4a9c4e3703487
+      internalID: -877929472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 9200
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1554156987f24aa9b457c21daf2de
+      internalID: -1577897195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 9200
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ed75d50b65114b9737f32fa7f80af
+      internalID: 19418856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 9200
+        width: 176
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67523572568102e419e3cb6dbaef5d84
+      internalID: 1398773469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_8
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 9200
+        width: 174
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b53b3bb2ea45948b5b76e81e28d41c
+      internalID: 272649018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 9200
+        width: 176
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b86f98bbc66c43a66e6bf0f46516b
+      internalID: 1143252615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 9200
+        width: 176
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c26678fdd358a44bd70f78ced45033
+      internalID: -1979829809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_11
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 9200
+        width: 176
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb2cb79c367814c832b83f206f9ad1
+      internalID: -1866105093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_12
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 9200
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb1d6a4527192438f766b47a18fcf0
+      internalID: -854588973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_13
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 9200
+        width: 180
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ed46e0f7190d45a4c9f32e3bbd096
+      internalID: 1987323978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_14
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 9200
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2d22cf5a122314f9d45ec61cbc7dbd
+      internalID: -1207310497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 8996
+        width: 298
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b691117cb15c4cae8f5adbfc96d5f
+      internalID: -616863332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_16
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 8996
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc5c02fca1b9f48b61c1e554603e1b
+      internalID: -820206622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_17
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 8996
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ccb1a0240a8e4ebc9f391aa804cf6
+      internalID: -1070661570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_18
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 8996
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0853f7df6cfe45ba1325e1f8ba1f2
+      internalID: -946347098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_19
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 8996
+        width: 294
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a61595e6ef7bd4b898cd3bfff64b25
+      internalID: 1054366132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8659
+        width: 180
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01dd45ae9108a49b0cc3493f31a7dc
+      internalID: 1359670849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 8659
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43701520e644c734281acaa914fe5aac
+      internalID: 1239903617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_22
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 8659
+        width: 185
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497d5df26cf5b94fab6c8db347ba2ea
+      internalID: 83851545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_23
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 8659
+        width: 174
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22454c3aa58edb42a71b5edd5f5c9af
+      internalID: -1494922037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_24
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 8659
+        width: 189
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe9d4a9c00cb045af6649410ce7465
+      internalID: 1584761450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_25
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 8659
+        width: 176
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328a65c021651d445a7dc4cb6689aeeb
+      internalID: 274925442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_26
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 8659
+        width: 195
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b73cefb2eea1f4fa9f95f30263bbfd
+      internalID: -1961557321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_27
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 8659
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408b8f4e926ace45b34a62a008d4f78
+      internalID: -233914665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_28
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 8659
+        width: 200
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970b25d3c4ea4c94eb2eaa97e0180a63
+      internalID: -239790751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_29
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 8659
+        width: 171
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79dff30249df074caac15415b40646e
+      internalID: 534489442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 8455
+        width: 298
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9434153834c504e8d5ca7de1d7d0a8
+      internalID: -871705667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_31
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 8455
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b1a394a340d949b12d21ee78f862e
+      internalID: 565977335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_32
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 8455
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30b7eb1da499e48bd6b786aa214bd8
+      internalID: -1574860703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_33
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 8118
+        width: 223
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548d24df1bd0c74eaf4985ac1c15a9c
+      internalID: -573219490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_34
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 8455
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9089a6e2a80ac364b8e8e96889b92b57
+      internalID: 357806720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8118
+        width: 458
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124862ea82c11c840afb6c34d4cb3103
+      internalID: -1458632928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8118
+        width: 209
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b0ac6a198faf746b33dcf1b02f3a51
+      internalID: 873219380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_37
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 8118
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b09dd809136fa54ba50c9aef76a82fc
+      internalID: -800505617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_38
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 8118
+        width: 209
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3663192a2e6c47bbbd9702179f6e3
+      internalID: -1787064565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_39
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 8118
+        width: 174
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a82c18ed8e5794d95bce74a857a891
+      internalID: -1826586269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_40
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 8118
+        width: 218
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7a59ff53ccb2499a0f0caeadd7fef
+      internalID: -1193631192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_41
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 8118
+        width: 176
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e779d3badd4924ab1344efe3fb32f2
+      internalID: 328595574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_42
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 8118
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30426093b23b2344b8f9ea8a05c9824
+      internalID: -905339090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_43
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 8118
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff3fad52c9d0e4e8ef96d504a310b2
+      internalID: -507425884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7577
+        width: 469
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c4f312bebca94abbf884112a52047
+      internalID: 373666122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_45
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 7577
+        width: 171
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d727dabd06235e4393fa099fdb27ad8
+      internalID: -515228611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_46
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 7577
+        width: 482
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5efad45f76b43f46b60ede23e6ea317
+      internalID: 707413473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_47
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 7577
+        width: 174
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da5b7ee1eacd0a4d8d76defa205bb8e
+      internalID: -605755174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_48
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 7577
+        width: 494
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8134bbe1a3cf34b94ab4546d48c8f1
+      internalID: 1682434431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_49
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 7577
+        width: 176
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ce4f34a0d4a3499c446a641ab3e31
+      internalID: 1666900290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_50
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 7575
+        width: 504
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3347adaab7396114bba49f78f2024cea
+      internalID: -1445134924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_51
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 7577
+        width: 171
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d752cd52df84ba74d9593646668b8a2a
+      internalID: -1501448877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_52
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 7574
+        width: 520
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab7f2c595900a6488d7320245cac4f9
+      internalID: 707826192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_53
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 7577
+        width: 171
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9026cfca1d8944c851d2818f1d5c5e
+      internalID: -1066567327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7036
+        width: 531
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ecba8f67f24f469ca50a8900f5b05
+      internalID: -2096646043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_55
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 7041
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b268ee46f60a4595d8383bcc5c098
+      internalID: -1548015789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 7034
+        width: 540
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3510d72368f9d98418390afdabd76fff
+      internalID: -297937930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_57
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 7041
+        width: 174
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e63e0abbd800844a313f0c2f691157
+      internalID: 931877362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_58
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7034
+        width: 546
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c55409f0633b541953010a9cb9a8c1
+      internalID: -482060905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_59
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 7041
+        width: 176
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569369a4983140747afe030814ab8fd3
+      internalID: 23334946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_60
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 7034
+        width: 551
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c60eae03f97741845d56d3a63d5b6
+      internalID: 1465325205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_61
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 7041
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58f48d8072bb14daba545324b48ca5
+      internalID: 2141811568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_62
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 7034
+        width: 553
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77372d133896d14190880a6b2edc2a9
+      internalID: -865954233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_63
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 7041
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa6619db628a3e4098101b9d2c6b1fc
+      internalID: -316822551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6495
+        width: 555
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ae6672eb658d489d07f439f4bb88f
+      internalID: 224717372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_65
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6500
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc051b62d5bd3045bb070eabde2620d
+      internalID: 1412887013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_66
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 6495
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242e60710a97f3439fe11efe1fc0077
+      internalID: -441064223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_67
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 6500
+        width: 174
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12879afde58b905478757ed8f13892c9
+      internalID: 1125125007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_68
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 6495
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789a252d7e07bd48b52830c6027f38f
+      internalID: 678170438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_69
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 6500
+        width: 176
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c56a43ebade34ea02c6a5afad93ee
+      internalID: 2016851804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_70
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 6495
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a9c60aa70a0a4da42abc29227bcbb
+      internalID: -459695738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_71
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 6500
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77b7f4fa2bb2c4d947de616bd5f0fb
+      internalID: 815392231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_72
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 6495
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e2e6161459ec469a9807f42dca6e5
+      internalID: 316927596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_73
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 6500
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355389dca750db142933e95c7e46f03d
+      internalID: -1336439720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5954
+        width: 555
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914916bc2111eca42986a30d0772d0f1
+      internalID: -630754987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_75
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 5959
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c2d789fe5fb4429023f56508f2af8
+      internalID: -669652086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_76
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 5954
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336c74eb53e2f845acd2942385a4b86
+      internalID: 1678341431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_77
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5959
+        width: 174
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33146b0d77da92947835813ed265cc53
+      internalID: -1740394602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_78
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 5954
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d157ff6a62fbd4f955398b4cd8358b
+      internalID: 180150060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_79
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 5959
+        width: 176
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7359310767cd19449f6e4ec3e8e0041
+      internalID: 1979151923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_80
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 5954
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c4e0457d71f9499f6099c71abf135
+      internalID: 1440716537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_81
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 5959
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ecf679cb59a0241b84b56d73f95b49
+      internalID: 1700323669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_82
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 5954
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091dda610207884387a137cf9d74ff4
+      internalID: -1928650214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_83
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 5959
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c3c789de48784ba0adacff2cfbffc
+      internalID: -649110188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5413
+        width: 555
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c3a4ec3bae1d4e918b5ea990ad128
+      internalID: -907254201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_85
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 5418
+        width: 171
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372ae42af14e514f8c9226a550ca10e
+      internalID: 746809105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_86
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 5413
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78800f2502eca42b0eaa623326c29b
+      internalID: 1642594903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_87
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5418
+        width: 174
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280e7d893174ff43b7accd5c475399c
+      internalID: 1297887282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_88
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 5413
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b71c81647beb49a071e139eb8f47b
+      internalID: -1921277556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_89
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 5418
+        width: 242
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec044b64960934ea2d84df831f1f72
+      internalID: 484782019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_90
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 5413
+        width: 551
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87aa6d8c4597a54da15c6e09472a187
+      internalID: 1925675600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_91
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 5418
+        width: 280
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3bbf0ee5b781449a55b5c33dd06274
+      internalID: 590818803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_92
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 5413
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad9c7120822a441b50e62e1dee82bf
+      internalID: 1642938884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4872
+        width: 608
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1473a784e6da3eb45b5f732afaa531c2
+      internalID: 760278373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_94
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 4872
+        width: 606
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e7bb854c195f4aa0483f693809ecb
+      internalID: -306267932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_95
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 4872
+        width: 608
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3c6a38e3086864d946e6f2d65f66e0
+      internalID: -9901553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_96
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 4872
+        width: 608
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f08886f51d9541a0992b267c1bc50
+      internalID: 2119657381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_97
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 4872
+        width: 608
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea7469bea0bf014da64aa08847d2153
+      internalID: -458418722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4336
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c83cc10468f948bfa3fed36dbcbb8
+      internalID: 561428914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_99
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 4336
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199229347603c3e42827b2c6d26b77b6
+      internalID: 1356373277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_100
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 4336
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c748031d86944bbf3a3f20030a3ab
+      internalID: 2145443993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_101
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 4336
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367102732aec1f408a6b7be7efbe378
+      internalID: 475363547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_102
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 4336
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c34118a0819f54a83739a178383c38
+      internalID: 1277391089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3795
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459414621f813f14b95740b6995f81f3
+      internalID: 1349911227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_104
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3795
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b46d03a86110b4e8a135343dfb9104
+      internalID: 2002065593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_105
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 3795
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf40db18efdbf4b93dcd6fa1eac0d4
+      internalID: 608844978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_106
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 3795
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a3555887cdeb4d9599131bae5eba4
+      internalID: -1140360821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_107
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 3795
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc09808f46042143af92f6cf005595d
+      internalID: -765713458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3253
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c5a334d574624991a0d8b7aa897a5
+      internalID: -1853438845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_109
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3253
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e4a0f2a62a2e4183ff541334aa744
+      internalID: -1459762398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_110
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 3253
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736ab41d228de7f42bf74f341a20a7a6
+      internalID: -166426854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_111
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 3253
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ae0b77503e9b4794f9188bb143bd0
+      internalID: 595659826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_112
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 3253
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b167d4ea56b8b44fa31db3cff647c5d
+      internalID: -22234294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2713
+        width: 608
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1804638c0fbc4c9bc0c2533cbaed8
+      internalID: 2089993589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_114
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2713
+        width: 606
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6432b15089b7c4e847b94cbb68228a
+      internalID: -1312835413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_115
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2713
+        width: 608
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51fe0d7c7db3644ad23a857c4bfbf1
+      internalID: -1137116268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_116
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2713
+        width: 608
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1484d2068a049d4aaa055cc7fa0c669
+      internalID: -1321432940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_117
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 2713
+        width: 608
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3231d27385f47a49a5dfa5e77c21ec9
+      internalID: -578017569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2174
+        width: 608
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc445a7e61ea448b324b64f3c5dbcc
+      internalID: -1625200529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_119
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2174
+        width: 606
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c1ed03d9d81b40aab645e98017deb
+      internalID: 1511716437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_120
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2174
+        width: 608
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867671cdfbc13d94a838146bd666357c
+      internalID: -1396329888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_121
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2174
+        width: 608
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81eecf253693c84e87ebf791208c9e7
+      internalID: -758584101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_122
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 2174
+        width: 608
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91432e58915ed64da44ff42328e026d
+      internalID: -438116451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1635
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33dbb667faa93b4b96c0ff6a62374fd
+      internalID: -167472695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_124
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1635
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03df5a2a53da443a048fe3cbb8c7b5
+      internalID: -965726286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_125
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1635
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f935136be85747acd09fb7b5c7b80
+      internalID: -476821518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_126
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1635
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ccb3590732ce64aa0d2db70ecc9357
+      internalID: -868213495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_127
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 1635
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb326cc7eb0e114ab14adc3f345c123
+      internalID: 1127086711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1094
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62944c6b99311d6428402bd9a32d97a1
+      internalID: 982704079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_129
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1094
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db41577c5b8af545a9d520619a0d409
+      internalID: -368681331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_130
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1094
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8e8edeafe30c4cb857fc0c3812cf1
+      internalID: -739474265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_131
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1094
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad749a11777f15e4ebc2c91756d87162
+      internalID: -796588170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_132
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 1094
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be174c1ac29f2c449ab0a53330ef949
+      internalID: 1399497912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 553
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f615a7c1fb84449783acdb71239cd
+      internalID: 2011638986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_134
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 553
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fa94cf1d2ecc4493c35e6037ad334
+      internalID: -1504920389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_135
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 553
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0a258973ff86b4c9f0edad1030dc95
+      internalID: -51161203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_136
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 553
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284be808a1b4ae3439296e764d3c23c1
+      internalID: 1557285027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_137
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 553
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040af4574a52bf341ad328689526f7ba
+      internalID: 369688168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abrir_tutorial_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 608
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19cf6b406c5524290c759f41cc0668
+      internalID: -424947503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4f656af6e5dcac44080553609d90f4b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Abrir_tutorial_0: 380366205
+      Abrir_tutorial_1: 1419410998
+      Abrir_tutorial_10: -1979829809
+      Abrir_tutorial_100: 2145443993
+      Abrir_tutorial_101: 475363547
+      Abrir_tutorial_102: 1277391089
+      Abrir_tutorial_103: 1349911227
+      Abrir_tutorial_104: 2002065593
+      Abrir_tutorial_105: 608844978
+      Abrir_tutorial_106: -1140360821
+      Abrir_tutorial_107: -765713458
+      Abrir_tutorial_108: -1853438845
+      Abrir_tutorial_109: -1459762398
+      Abrir_tutorial_11: -1866105093
+      Abrir_tutorial_110: -166426854
+      Abrir_tutorial_111: 595659826
+      Abrir_tutorial_112: -22234294
+      Abrir_tutorial_113: 2089993589
+      Abrir_tutorial_114: -1312835413
+      Abrir_tutorial_115: -1137116268
+      Abrir_tutorial_116: -1321432940
+      Abrir_tutorial_117: -578017569
+      Abrir_tutorial_118: -1625200529
+      Abrir_tutorial_119: 1511716437
+      Abrir_tutorial_12: -854588973
+      Abrir_tutorial_120: -1396329888
+      Abrir_tutorial_121: -758584101
+      Abrir_tutorial_122: -438116451
+      Abrir_tutorial_123: -167472695
+      Abrir_tutorial_124: -965726286
+      Abrir_tutorial_125: -476821518
+      Abrir_tutorial_126: -868213495
+      Abrir_tutorial_127: 1127086711
+      Abrir_tutorial_128: 982704079
+      Abrir_tutorial_129: -368681331
+      Abrir_tutorial_13: 1987323978
+      Abrir_tutorial_130: -739474265
+      Abrir_tutorial_131: -796588170
+      Abrir_tutorial_132: 1399497912
+      Abrir_tutorial_133: 2011638986
+      Abrir_tutorial_134: -1504920389
+      Abrir_tutorial_135: -51161203
+      Abrir_tutorial_136: 1557285027
+      Abrir_tutorial_137: 369688168
+      Abrir_tutorial_138: -424947503
+      Abrir_tutorial_14: -1207310497
+      Abrir_tutorial_15: -616863332
+      Abrir_tutorial_16: -820206622
+      Abrir_tutorial_17: -1070661570
+      Abrir_tutorial_18: -946347098
+      Abrir_tutorial_19: 1054366132
+      Abrir_tutorial_2: 434399576
+      Abrir_tutorial_20: 1359670849
+      Abrir_tutorial_21: 1239903617
+      Abrir_tutorial_22: 83851545
+      Abrir_tutorial_23: -1494922037
+      Abrir_tutorial_24: 1584761450
+      Abrir_tutorial_25: 274925442
+      Abrir_tutorial_26: -1961557321
+      Abrir_tutorial_27: -233914665
+      Abrir_tutorial_28: -239790751
+      Abrir_tutorial_29: 534489442
+      Abrir_tutorial_3: -1565497154
+      Abrir_tutorial_30: -871705667
+      Abrir_tutorial_31: 565977335
+      Abrir_tutorial_32: -1574860703
+      Abrir_tutorial_33: -573219490
+      Abrir_tutorial_34: 357806720
+      Abrir_tutorial_35: -1458632928
+      Abrir_tutorial_36: 873219380
+      Abrir_tutorial_37: -800505617
+      Abrir_tutorial_38: -1787064565
+      Abrir_tutorial_39: -1826586269
+      Abrir_tutorial_4: -877929472
+      Abrir_tutorial_40: -1193631192
+      Abrir_tutorial_41: 328595574
+      Abrir_tutorial_42: -905339090
+      Abrir_tutorial_43: -507425884
+      Abrir_tutorial_44: 373666122
+      Abrir_tutorial_45: -515228611
+      Abrir_tutorial_46: 707413473
+      Abrir_tutorial_47: -605755174
+      Abrir_tutorial_48: 1682434431
+      Abrir_tutorial_49: 1666900290
+      Abrir_tutorial_5: -1577897195
+      Abrir_tutorial_50: -1445134924
+      Abrir_tutorial_51: -1501448877
+      Abrir_tutorial_52: 707826192
+      Abrir_tutorial_53: -1066567327
+      Abrir_tutorial_54: -2096646043
+      Abrir_tutorial_55: -1548015789
+      Abrir_tutorial_56: -297937930
+      Abrir_tutorial_57: 931877362
+      Abrir_tutorial_58: -482060905
+      Abrir_tutorial_59: 23334946
+      Abrir_tutorial_6: 19418856
+      Abrir_tutorial_60: 1465325205
+      Abrir_tutorial_61: 2141811568
+      Abrir_tutorial_62: -865954233
+      Abrir_tutorial_63: -316822551
+      Abrir_tutorial_64: 224717372
+      Abrir_tutorial_65: 1412887013
+      Abrir_tutorial_66: -441064223
+      Abrir_tutorial_67: 1125125007
+      Abrir_tutorial_68: 678170438
+      Abrir_tutorial_69: 2016851804
+      Abrir_tutorial_7: 1398773469
+      Abrir_tutorial_70: -459695738
+      Abrir_tutorial_71: 815392231
+      Abrir_tutorial_72: 316927596
+      Abrir_tutorial_73: -1336439720
+      Abrir_tutorial_74: -630754987
+      Abrir_tutorial_75: -669652086
+      Abrir_tutorial_76: 1678341431
+      Abrir_tutorial_77: -1740394602
+      Abrir_tutorial_78: 180150060
+      Abrir_tutorial_79: 1979151923
+      Abrir_tutorial_8: 272649018
+      Abrir_tutorial_80: 1440716537
+      Abrir_tutorial_81: 1700323669
+      Abrir_tutorial_82: -1928650214
+      Abrir_tutorial_83: -649110188
+      Abrir_tutorial_84: -907254201
+      Abrir_tutorial_85: 746809105
+      Abrir_tutorial_86: 1642594903
+      Abrir_tutorial_87: 1297887282
+      Abrir_tutorial_88: -1921277556
+      Abrir_tutorial_89: 484782019
+      Abrir_tutorial_9: 1143252615
+      Abrir_tutorial_90: 1925675600
+      Abrir_tutorial_91: 590818803
+      Abrir_tutorial_92: 1642938884
+      Abrir_tutorial_93: 760278373
+      Abrir_tutorial_94: -306267932
+      Abrir_tutorial_95: -9901553
+      Abrir_tutorial_96: 2119657381
+      Abrir_tutorial_97: -458418722
+      Abrir_tutorial_98: 561428914
+      Abrir_tutorial_99: 1356373277
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
